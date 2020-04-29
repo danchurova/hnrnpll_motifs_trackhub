@@ -1,0 +1,5 @@
+hub hnrnpll_motifs
+shortLabel hnrnpll_motifs
+longLabel hnrnpll_motifs
+genomesFile genomes.txt
+email anastasia.danchurova@gmail.com 
