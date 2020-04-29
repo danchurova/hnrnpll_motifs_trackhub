@@ -1,0 +1,5 @@
+track hnrnpll_motifs
+type bigBed
+bigDataUrl hnrnpll.bb
+shortLabel hnrnpll_motifs
+longLabel hnrnpll_motifs
